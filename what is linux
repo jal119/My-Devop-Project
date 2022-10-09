@@ -1,0 +1,25 @@
+what is linux
+linux is open source
+it's very secre
+in 2021 100% of the world to supercomputer run on linux
+out of top 25 website in the world only two not using linux
+major linux family (debian fedora suse other distributions
+unbutu linux mint are from the debian family fedora rhel,centos orcle linux suse sles open suse)
+DPKG -DEBIAN PACKAGE MANAGMENT SYSTEM
+APT (ADVANCED PACKAGING TOOL)
+APTITUDE PACKAGE MANAGER
+EX $ SUDO APT UPDATE
+
+
+REDHAT FAMILY YUM ( YELLOWDOG UPDATER,MODIFIED)
+DNF - DANDIFIED YUM 
+EX $ SUDO YUM UPDATE
+LINUX SERVER DID NOT HAVE GRAPHICAL USER INTERFACE 
+
+GRAPHICAL USER INTERFACE VS COMMAND LINE INTERFACE
+
+editors
+nano-nao is preinstall text editors in the linux
+
+to create or edit file use "nano check.txt"
+Vi
